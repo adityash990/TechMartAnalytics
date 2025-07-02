@@ -36,6 +36,7 @@ Vercel — Seamless cloud deployment
 .Seamless, scalable user experience optimized for stakeholders
 
 💡 Future Enhancements
+
 🔧 Real-time database integration with SQL
 🔧 Advanced AI/ML models for deeper predictive insights
 🔧 Backend expansion with Python or Node.js
