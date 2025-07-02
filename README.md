@@ -26,13 +26,14 @@ Vercel — Seamless cloud deployment
 👉 https://tech-mart-analytics1.vercel.app/
 
 📂 Project Breakdown
-AI-Powered predictive insights to enhance product and business strategy
 
-Structured Data Models ensuring efficient, reliable data handling
+.AI-Powered predictive insights to enhance product and business strategy
 
-Visually compelling dashboards with advanced reporting capabilities
+.Structured Data Models ensuring efficient, reliable data handling
 
-Seamless, scalable user experience optimized for stakeholders
+.Visually compelling dashboards with advanced reporting capabilities
+
+.Seamless, scalable user experience optimized for stakeholders
 
 💡 Future Enhancements
 🔧 Real-time database integration with SQL
